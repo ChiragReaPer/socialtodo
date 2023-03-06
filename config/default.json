@@ -1,0 +1,4 @@
+{
+  "mongoDatabase": "mongodb+srv://socialtodo:T4DqGS5278ixaSsC@socialtodo.rdpn5e9.mongodb.net/socialtodo?retryWrites=true&w=majority",
+  "jwtSecret": "dHUjxmzBV49VWW2uUcV4XI9ktYJfQJ8RN4cPql3lFxvEtI8ewTQLKPYTqWfuTi4Ro8kyzTh3sfmOwHafG2Sqm7h2Ze93T13mK6Ts"
+}
